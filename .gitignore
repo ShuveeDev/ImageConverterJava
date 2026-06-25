@@ -1,0 +1,7 @@
+ImageConverter.jar
+*.class
+bin/
+target/
+.idea/
+*.iml
+.DS_Store
